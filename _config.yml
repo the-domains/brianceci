@@ -2,12 +2,13 @@ name: brianceci
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.65417
+title: The Personal Portfolio of Brian Ceci
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-24267216-2
   facebook: null
   twitter: null
 opengraph:
