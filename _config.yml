@@ -1,7 +1,7 @@
 name: brianceci
 favicon: null
-layout_spectrum: 0.04521348117850721
-typography_spectrum: 0.3134119240567088
+layout_spectrum: 1
+typography_spectrum: 0.65417
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7757113222032785
-  lightness: 0.6555746176745743
-  saturation: 0.32546161371283233
-  rhythmicContrast: 0.21673732134513557
+    - '#231f20'
+    - '#ffffff'
+    - '#787676'
+    - '#c9c8c8'
+    - '#5a5757'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
