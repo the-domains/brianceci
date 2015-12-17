@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Personal Portfolio of Brian Ceci]]></title>
+        <description><![CDATA[The Personal Portfolio of Brian Ceci]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 00:35:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Sudan 2011-2015]]></title>
+            <description><![CDATA[<h1>South Sudan 2011-2015</h1>]]></description>
+            <link>undefinedsouth-sudan-2011-2015/index.html</link>
+            <guid isPermaLink="false">4c9910a7-630c-4346-8bf8-bc9424c45f46</guid>
+            <pubDate>Thu, 17 Dec 2015 00:35:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
